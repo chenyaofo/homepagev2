@@ -7,13 +7,13 @@
 
 # Site Settings
 title                    : "Chen Yaofo"
-description              : "Focusing on AutoML and test-time learning/adaptation."
+description              : "Focusing on AutoML and test-time learning."
 repository               : "chenyaofo/homepagev2"
 google_scholar_stats_use_cdn : true
 
 # Site Author
 author:
-  name             : "Chen Yaofo (陈耀佛)"
+  name             : "Chen Yaofo"
   avatar           : "images/avatar.jpg"
   bio              : ""
   location         : "Guangzhou, China"
