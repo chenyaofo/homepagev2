@@ -6,14 +6,15 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Chen Yaofo"
-description              : "Focusing on AutoML and test-time learning."
+title                    : "Yaofo Chen"
+description              : ""
 repository               : "chenyaofo/homepagev2"
 google_scholar_stats_use_cdn : true
 
 # Site Author
 author:
   name             : "Yaofo Chen"
+  cname            : "陈耀佛"
   avatar           : "images/avatar.jpg"
   bio              : ""
   location         : "Guangzhou, China"
