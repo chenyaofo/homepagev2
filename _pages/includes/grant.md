@@ -1,4 +1,4 @@
-国家自然科学基金区域创新发展联合基金
+<!-- 国家自然科学基金区域创新发展联合基金
 Regional Innovation and Development Joint Fund of the National Natural Science Foundation of China
 
 
@@ -24,4 +24,4 @@ PI stands for Principle Investigator, PP stands for Project Participant.
 纵向项目 Government-sponsored Research Projects
 
 
-横向项目 Industry-sponsored Research Projects
+横向项目 Industry-sponsored Research Projects -->
