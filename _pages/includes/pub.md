@@ -1,5 +1,5 @@
 
-# 📝 Publications 
+# 📝 Selected Publications 【[Full List](/publications)]
 
 
  - `ICML 2025` [Core Context Aware Transformers for Long Context Language Modeling](https://icml.cc/virtual/2025/poster/45555), <u><strong>Yaofo Chen</strong></u>, Zeng You, Shuhai Zhang, Haokun Li, Yirui Li, Yaowei Wang, Mingkui Tan. [PDF](https://arxiv.org/pdf/2412.12465) / [Poster](posters/chen-core-context-aware-transformers-for-long-context-language-modeling-poster.pdf) / [Slides](slides/chen-core-context-aware-transformers-for-long-context-language-modeling-slides.pdf) / [Code](https://github.com/chenyaofo/CCA-Attention) / [Project Page](https://bolixinyu.github.io/CCA-Attention-Page)
@@ -9,5 +9,4 @@ Xu, Hengjie Song, Mingkui Tan. [PDF](papers/chen-towards-robust-and-efficient-cl
  - `CVPR 2021` [Contrastive Neural Architecture Search with Neural Architecture Comparators](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Contrastive_Neural_Architecture_Search_With_Neural_Architecture_Comparators_CVPR_2021_paper.html), <u><strong>Yaofo Chen</strong></u>, Yong Guo, Qi Chen, Minli Li, Wei Zeng, Yaowei Wang, Mingkui Tan. [PDF](papers/chen-contrastive-neural-architecture-search-with-neural-architecture-comparators.pdf) / [Supp](papers/chen-contrastive-neural-architecture-search-with-neural-architecture-comparators-supp.pdf) / [Poster](posters/chen-contrastive-neural-architecture-search-with-neural-architecture-comparators-poster.pdf) / [Slides](slides/chen-contrastive-neural-architecture-search-with-neural-architecture-comparators-slides.pdf) / [Code](https://github.com/chenyaofo/CTNAS)
  - `ICML 2020` [Breaking the Curse of Space Explosion: Towards Efficient NAS with Curriculum Search](https://proceedings.mlr.press/v119/guo20b.html), Yong Guo<sup>*</sup>, <u><strong>Yaofo Chen<sup>*</sup></strong></u>, Yin Zheng, Peilin Zhao, Jian Chen, Junzhou Huang, Mingkui Tan. [PDF](papers/guo-breaking-the-curse-of-space-explosion-towards-efficient-NAS-with-curriculum-search.pdf) / [Supp](papers/guo-breaking-the-curse-of-space-explosion-towards-efficient-NAS-with-curriculum-search-supp.pdf) / [Poster](posters/guo-breaking-the-curse-of-space-explosion-towards-efficient-NAS-with-curriculum-search-poster.pdf) / [Slides](slides/guo-breaking-the-curse-of-space-explosion-towards-efficient-NAS-with-curriculum-search-slides.pdf) / [Code](https://github.com/guoyongcs/CNAS)
 
-(See [all publications](/publications))
 
