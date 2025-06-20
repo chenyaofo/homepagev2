@@ -1,5 +1,5 @@
 
-# 📝 Selected Publications 【[Full List](/publications)]
+# 📝 Selected Publications [[Full List](/publications)]
 
 
  - `ICML 2025` [Core Context Aware Transformers for Long Context Language Modeling](https://icml.cc/virtual/2025/poster/45555), <u><strong>Yaofo Chen</strong></u>, Zeng You, Shuhai Zhang, Haokun Li, Yirui Li, Yaowei Wang, Mingkui Tan. [PDF](https://arxiv.org/pdf/2412.12465) / [Poster](posters/chen-core-context-aware-transformers-for-long-context-language-modeling-poster.pdf) / [Slides](slides/chen-core-context-aware-transformers-for-long-context-language-modeling-slides.pdf) / [Code](https://github.com/chenyaofo/CCA-Attention) / [Project Page](https://bolixinyu.github.io/CCA-Attention-Page)
