@@ -5,5 +5,5 @@
 - Conference on Computer Vision and Pattern Recognition (CVPR), Reviewer 2022-2025
 - International Conference on Computer Vision (ICCV), Reviewer 2023-2025
 - European Conference on Computer Vision (ECCV), Reviewer 2022-2024
-- AAAI Conference on Artificial Intelligence (AAAI), Reviewer 2025
+- AAAI Conference on Artificial Intelligence (AAAI), Reviewer 2025-2026
 - Winter Conference on Applications of Computer Vision (WACV), Reviewer 2026
