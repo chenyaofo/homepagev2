@@ -29,5 +29,5 @@ PI stands for Principle Investigator, PP stands for Project Participant.
 
 # 📘 Grants
 
- - Principle Investigator, Postdoctoral Research Project Funding of Guangzhou, 2025-2026
+ - Postdoctoral Research Project Funding of Guangzhou, Government-sponsored Research Projects, Principle Investigator, 2025-2026
  - Postdoctoral Fellowship Program of CPSF (C), 2025, GZC20251043
