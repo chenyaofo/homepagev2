@@ -18,3 +18,5 @@ redirect_from:
 {% include_relative includes/services.md %}
 
 {% include_relative includes/grants.md %}
+
+{% include_relative includes/awards.md %}
