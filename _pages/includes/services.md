@@ -4,6 +4,7 @@
 - Conference on Neural Information Processing Systems (NeurIPS), Reviewer 2021-2025
 - Conference on Computer Vision and Pattern Recognition (CVPR), Reviewer 2022-2026
 - International Conference on Computer Vision (ICCV), Reviewer 2023-2025
-- European Conference on Computer Vision (ECCV), Reviewer 2022-2024
+- European Conference on Computer Vision (ECCV), Reviewer 2022-2026
 - AAAI Conference on Artificial Intelligence (AAAI), Reviewer 2025-2026
 - Winter Conference on Applications of Computer Vision (WACV), Reviewer 2026
+- IEEE International Conference on Multimedia and Expo (ICME), Reviewer 2026
