@@ -4,3 +4,4 @@ I am a post-doctoral researcher with [School of Future Technology (未来技术�
  - Automated Machine Learning (Neural Architecture Search and Discrete Combinatorial Optimization)
  - Test-Time Adaptation and Learning (for Robustness Under Data Distribution Shifts)
 
+I am open to research collaborations and co-supervising students on topics related to intelligent electromagnetic structure design/search, efficient neural architecture design and optimization, and machine learning.
