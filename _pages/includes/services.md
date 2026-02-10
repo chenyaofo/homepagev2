@@ -11,4 +11,5 @@ I actively contribute to the research community through peer reviewing for major
 - IEEE Transactions on Systems, Man, and Cybernetics: Systems (IEEE TSMC-S), Reviewer 2026–present
 - Winter Conference on Applications of Computer Vision (WACV), Reviewer 2026
 - IEEE International Conference on Multimedia and Expo (ICME), Reviewer 2026
+- British Machine Vision Conference (BMVC), Reviewer 2026
 - International Conference on Learning Representations Workshop on Test-Time Updates (ICLRW-TTU), Reviewer 2026
