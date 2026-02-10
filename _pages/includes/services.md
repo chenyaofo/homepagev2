@@ -8,3 +8,5 @@
 - AAAI Conference on Artificial Intelligence (AAAI), Reviewer 2025-2026
 - Winter Conference on Applications of Computer Vision (WACV), Reviewer 2026
 - IEEE International Conference on Multimedia and Expo (ICME), Reviewer 2026
+- IEEE Transactions on Systems, Man, and Cybernetics: Systems (IEEE TSMC-S), Reviewer 2026–present
+- International Conference on Learning Representations Workshop on Test-Time Updates (ICLRW-TTU), Reviewer 2026
