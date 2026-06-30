@@ -2,6 +2,6 @@ I am a post-doctoral researcher with [School of Future Technology (未来技术�
  - Intelligent Electromagnetic Structure Design and Optimization (for Filtering Antennas and RF/Microwave Circuits and Chips)
  - Architecture Optimization and Acceleration for Large Language Models and Foundation Models
  - Automated Machine Learning (Neural Architecture Search and Discrete Combinatorial Optimization)
- - Test-Time Adaptation and Learning (for Robustness Under Data Distribution Shifts)
+ - Test-Time Adaptation and Learning (for Robustness under Data Distribution Shifts)
 
 I am open to research collaborations and co-supervising students on topics related to intelligent electromagnetic structure design/search, efficient neural architecture design and optimization, and machine learning.
