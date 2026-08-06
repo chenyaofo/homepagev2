@@ -21,7 +21,6 @@ author_profile: true
  - `CVPRW 2023` [Pareto-aware Neural Architecture Generation for Diverse Computational Budgets](https://openaccess.thecvf.com/content/CVPR2023W/NAS/html/Guo_Pareto-Aware_Neural_Architecture_Generation_for_Diverse_Computational_Budgets_CVPRW_2023_paper.html), Yong Guo, <u><strong>Yaofo Chen</strong></u>, Yin Zheng, Qi Chen, Peilin Zhao, Jian Chen, Junzhou Huang, Mingkui Tan. Jun 18-22, 2023. Vancouver, Canada. [PDF](papers/guo-pareto-aware-neural-architecture-generation-for-diverse-computational-budgets.pdf) / [Supp](papers/guo-pareto-aware-neural-architecture-generation-for-diverse-computational-budgets-supp.pdf) / [Code](https://github.com/guoyongcs/PNAG)
 
 
-
 ## Model Generalization, Adaptation
 
  - `ICLR 2024` [Towards Robust and Efficient Cloud-Edge Elastic Model Adaptation via Selective Entropy Distillation](https://openreview.net/forum?id=vePdNU3u6n), <u><strong>Yaofo Chen</strong></u>, Shuaicheng Niu, Yaowei Wang, Shoukai
