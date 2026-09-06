@@ -23,13 +23,14 @@ PI stands for Principle Investigator, PP stands for Project Participant.
 
 纵向项目 Government-sponsored Research Projects
 
+Research Project of the State Administration of Science, Technology and Industry for National Defence (国家国防科技工业局项目，课题负责人), Government-sponsored Research Projects, Subproject Principal Investigator, 202X–202X
 
 横向项目 Industry-sponsored Research Projects -->
 
 
 # 📘 Grants
  - Young Scientists Fund (C) of the National Natural Science Foundation of China (国自然青年基金), Government-sponsored Research Projects, Principle Investigator, 2027-2029
- - Regional Innovation and Development Joint Fund of the National Natural Science Foundation of China (国自然区域联合基金，课题负责人), Government-sponsored Research Projects, *Project Participant*, 2026-2029
+ - Regional Innovation and Development Joint Fund of the National Natural Science Foundation of China (国自然区域联合基金，课题负责人), Government-sponsored Research Projects, *Principal Investigator of the Research Task*, 2026-2029
  - General Program of GuangDong Basic and Applied Basic Research Foundation (广东省面上), Government-sponsored Research Projects, *Principle Investigator*, 2026-2028
  - Postdoctoral Research Project Funding of Guangzhou (广州市博士后启动项目), Government-sponsored Research Projects, *Principle Investigator*, 2025-2026
  - Postdoctoral Fellowship Program of CPSF (C) (博士后国资助计划C), Government-sponsored Fellowship Program, *Awardee*, 2025
