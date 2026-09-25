@@ -1,4 +1,5 @@
 # 🔥 News
+- 2026.09: 🎉 One paper accepted by NeurIPS 2026!
 - 2026.08: 🎉 Two paper accepted by TPAMI!
 - 2026.05: 🎉 Two paper accepted by ICML 2026!
 - 2026.04: 🎉 One paper accepted by ACL 2026!
