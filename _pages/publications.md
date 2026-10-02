@@ -34,7 +34,7 @@ Xu, Hengjie Song, Mingkui Tan. May 7-11, 2024. Vienna, Austria. [PDF](papers/che
  - `MIR 2026` [A Survey on Self-Improving Test-Time Intelligence: Feedback-Driven Adapting, Learning, and Scaling at Inference](https://arxiv.org/pdf/2609.01679), Shuaicheng Niu, Guohao Chen, <u><strong>Yaofo Chen</strong></u>, Zhiquan Wen, Jinwu Hu, Zeshuai Deng, Deyu Chen, Shuhai Zhang, Renjie Chen, Zihao Lian, Shoukai Xu, Wei Luo,Mingkui Tan, Cheng Deng. [PDF](/resouces-no-available)
 
 ## Intelligent Electromagnetic Structure Design and Optimization
- - `IEEE TAP` [AI-Driven Automated Metasurface Design Framework for Diverse RCS Reduction Objectives](/resouces-no-available), GuYing Deng, Yao Pan, <u><strong>Yaofo Chen</strong></u><sup>†</sup>, Mingkui Tan, XiuYin Zhang. [PDF](/resouces-no-available)
+ - `IEEE TAP` [AI-Driven Automated Metasurface Design Framework for Diverse RCS Reduction Objectives](/resouces-no-available), GuYing Deng, Yao Pan, <u><strong>Yaofo Chen</strong></u><sup>†</sup>, Mingkui Tan, XiuYin Zhang. [PDF](papers/deng-ai-driven-automated-metasurface-design-framework-for-diverse-rcs-reduction-objectives.pdf)
  - `IMWS-AMP 2026` [Machine Learning-Assisted End-to-End Synthesis of RF Transformer-Based Matching Networks](/resouces-no-available), Tao Wang, Li Gao, <u><strong>Yaofo Chen</strong></u>, Xiuyin Zhang. July 22- 24, 2026. Cairns, Australia. [PDF](/resouces-no-available)
 
 
