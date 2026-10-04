@@ -6,6 +6,10 @@ author_profile: true
 
 ---
 
+## Intelligent Electromagnetic Structure Design and Optimization
+ - `IEEE TAP` [AI-Driven Automated Metasurface Design Framework for Diverse RCS Reduction Objectives](/resouces-no-available), GuYing Deng, Yao Pan, <u><strong>Yaofo Chen</strong></u><sup>†</sup>, Mingkui Tan, XiuYin Zhang. [PDF](papers/deng-ai-driven-automated-metasurface-design-framework-for-diverse-rcs-reduction-objectives.pdf)
+ - `IMWS-AMP 2026` [Machine Learning-Assisted End-to-End Synthesis of RF Transformer-Based Matching Networks](https://doi.org/10.1109/IMWS-AMP68843.2026.11684181), Tao Wang, Li Gao, <u><strong>Yaofo Chen</strong></u>, Xiuyin Zhang. July 22- 24, 2026. Cairns, Australia. [PDF](/resouces-no-available)
+
 ## Deep Model Architecture and Design
 
  - `ICML 2025` [Core Context Aware Transformers for Long Context Language Modeling](https://proceedings.mlr.press/v267/chen25cg.html), <u><strong>Yaofo Chen</strong></u>, Zeng You, Shuhai Zhang, Haokun Li, Yirui Li, Yaowei Wang, Mingkui Tan. July 13-19, 2025. Vancouver, Canada. [PDF](papers/chen-core-context-aware-transformers-for-long-context-language-modeling.pdf) / [Poster](posters/chen-core-context-aware-transformers-for-long-context-language-modeling-poster.pdf) / [Slides](slides/chen-core-context-aware-transformers-for-long-context-language-modeling-slides.pdf) / [Code](https://github.com/chenyaofo/CCA-Attention) / [Project Page](https://bolixinyu.github.io/CCA-Attention-Page)
@@ -32,10 +36,6 @@ Xu, Hengjie Song, Mingkui Tan. May 7-11, 2024. Vienna, Austria. [PDF](papers/che
  - `TPAMI 2025` [Uncertainty-Calibrated Test-Time Model Adaptation without Forgetting](https://doi.org/10.1109/TPAMI.2025.3560696), Mingkui Tan, Guohao Chen, Jiaxiang Wu, Yifan Zhang, <u><strong>Yaofo Chen</strong></u>, Peilin Zhao, Shuaicheng Niu. [PDF](papers/tan-uncertainty-calibrated-test-time-model-adaptation-without-forgetting.pdf) / [Code](https://github.com/mr-eggplant/EATA)
  - `TPAMI 2026` [Adapt in the Wild: Test-Time Entropy Minimization with Sharpness and Feature Regularization](https://doi.org/10.1109/TPAMI.2026.3721895), Shuaicheng Niu, Guohao Chen, Deyu Chen, Yifan Zhang, Jiaxiang Wu, Zhiquan Wen, <u><strong>Yaofo Chen</strong></u>, Peilin Zhao, Chunyan Miao, Mingkui Tan. [PDF](/resouces-no-available) / [Code](/resouces-no-available)
  - `MIR 2026` [A Survey on Self-Improving Test-Time Intelligence: Feedback-Driven Adapting, Learning, and Scaling at Inference](https://arxiv.org/pdf/2609.01679), Shuaicheng Niu, Guohao Chen, <u><strong>Yaofo Chen</strong></u>, Zhiquan Wen, Jinwu Hu, Zeshuai Deng, Deyu Chen, Shuhai Zhang, Renjie Chen, Zihao Lian, Shoukai Xu, Wei Luo,Mingkui Tan, Cheng Deng. [PDF](/resouces-no-available)
-
-## Intelligent Electromagnetic Structure Design and Optimization
- - `IEEE TAP` [AI-Driven Automated Metasurface Design Framework for Diverse RCS Reduction Objectives](/resouces-no-available), GuYing Deng, Yao Pan, <u><strong>Yaofo Chen</strong></u><sup>†</sup>, Mingkui Tan, XiuYin Zhang. [PDF](papers/deng-ai-driven-automated-metasurface-design-framework-for-diverse-rcs-reduction-objectives.pdf)
- - `IMWS-AMP 2026` [Machine Learning-Assisted End-to-End Synthesis of RF Transformer-Based Matching Networks](/resouces-no-available), Tao Wang, Li Gao, <u><strong>Yaofo Chen</strong></u>, Xiuyin Zhang. July 22- 24, 2026. Cairns, Australia. [PDF](/resouces-no-available)
 
 
 ## Other Areas
