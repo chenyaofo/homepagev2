@@ -7,7 +7,8 @@ author_profile: true
 ---
 
 ## Intelligent Electromagnetic Structure Design and Optimization
- - `IEEE TAP` [AI-Driven Automated Metasurface Design Framework for Diverse RCS Reduction Objectives](/resouces-no-available), GuYing Deng, Yao Pan, <u><strong>Yaofo Chen</strong></u><sup>†</sup>, Mingkui Tan, XiuYin Zhang. [PDF](papers/deng-ai-driven-automated-metasurface-design-framework-for-diverse-rcs-reduction-objectives.pdf)
+ - `IEEE TAP` [AI-Driven Automated Metasurface Design Framework for Diverse RCS Reduction Objectives](https://doi.org/10.1109/TAP.2026.3743871), GuYing Deng, Yao Pan, <u><strong>Yaofo Chen</strong></u><sup>†</sup>, Mingkui Tan, XiuYin Zhang. [PDF](papers/deng-ai-driven-automated-metasurface-design-framework-for-diverse-rcs-reduction-objectives.pdf)
+ - `IEEE TAP` [Model-Based Reinforcement Learning Optimization of Dual-Polarized Filtenna](/resouces-no-available), Kai Huang, Yi-Fan Xie, <u><strong>Yaofo Chen</strong></u>,Yao Zhang, Qing Huo Liu, Xiu Yin Zhang . [PDF](/resouces-no-available)
  - `IMWS-AMP 2026` [Machine Learning-Assisted End-to-End Synthesis of RF Transformer-Based Matching Networks](https://doi.org/10.1109/IMWS-AMP68843.2026.11684181), Tao Wang, Li Gao, <u><strong>Yaofo Chen</strong></u>, Xiuyin Zhang. July 22- 24, 2026. Cairns, Australia. [PDF](/resouces-no-available)
 
 ## Deep Model Architecture and Design
@@ -40,6 +41,7 @@ Xu, Hengjie Song, Mingkui Tan. May 7-11, 2024. Vienna, Austria. [PDF](papers/che
 
 ## Other Areas
  - `PRCV 2025` [Sensitivity-Aware Post-Training Quantization for Deep Neural Networks](https://doi.org/10.1007/978-981-95-5696-0_2), Zekang Zheng, Haokun Li, <u><strong>Yaofo Chen</strong></u><sup>†</sup>, Mingkui Tan, Qing Du. October 15-18, 2025. Shanghai, China. [PDF](papers/zheng-sensitivity-aware-post-training-quantization-for-deep-neural-networks.pdf) / [Poster](posters/zheng-sensitivity-aware-post-training-quantization-for-deep-neural-networks-poster.pdf)
+ - `PDCAT 2026` [Efficient Dual-Teacher Consensus Distillation with Reliability-Aware Re-Weighting for Generalized Few-Shot 3D Semantic Segmentation](/resouces-no-available), Qifei Du, <u><strong>Yaofo Chen<sup>*</sup></strong></u>, Cen Chen. Dec 4-6, Changsha, China. [PDF](/resouces-no-available)
  - `TCSVT 2024` [Towards Long Video Understanding via Fine-detailed Video Story Generation](https://doi.org/10.1109/TCSVT.2024.3514820), Zeng You, Zhiquan Wen, <u><strong>Yaofo Chen</strong></u>, Xin Li, Runhao Zeng, Yaowei Wang, Mingkui Tan. [PDF](papers/you-towards-long-video-understanding-via-fine-detailed-video-story-generation.pdf) / [Code](https://github.com/bolixinyu/FDVS) / [Project Page](https://bolixinyu.github.io/FDVS)
  - `ICML 2026` [Intervene When It Doubts: Conjunction-Guided Interactive Reasoning](https://openreview.net/forum?id=zVjLO7jg9T), Qianyue Wang, Jinwu Hu, <u><strong>Yaofo Chen</strong></u>, Zhiquan Wen, Bailin Chen, Huanxiang Lin, Yufeng Wang, Yu Rong, Yuanqing Li, Mingkui Tan. July 6-11, 2026. Seoul, South Korea. [PDF](papers/wang-intervene-when-it-doubts-conjunction-guided-interactive-reasoning.pdf) / [Code](https://github.com/Qianyue-Wang1/Conjunction-Guided-Intervention)
  - `Chinese Journal of Computers` [Class-Balanced Federated Learning Based on Data Generation](http://cjc.ict.ac.cn/qwjs/view.asp?id=5746), ZhiPeng Li, Yong Guo, <u><strong>Yaofo Chen</strong></u>, Yaowei Wang, Wei Zeng, Mingkui Tan. [PDF](papers/li-class-balanced-federated-learning-based-on-data-generation.pdf) / [Code](https://github.com/lizhipengcs/CBFL)
